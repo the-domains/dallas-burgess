@@ -1,0 +1,28 @@
+name: Dallas burgess
+favicon: null
+layout_spectrum: 0.9398591397330165
+typography_spectrum: 0.9149179947562516
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5402430307585746
+  lightness: 0.01360187167301774
+  saturation: 0.5826892040204257
+  rhythmicContrast: 0.450248503126204
+purpose: []
