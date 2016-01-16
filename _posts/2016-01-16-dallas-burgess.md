@@ -17,7 +17,7 @@ keywords:
   - paratrooper
   - production
 description: 'Dallas Burgess, Producer: Bedtime. William Dallas Burgess is a freelance indie filmmaker from Austin, TX. Following September 11, 2001, Dallas enlisted into the Army and spent 10 years as an infantry paratrooper with multiple combat deployments. Following his career in the Army, he transitioned into the private sector.'
-datePublished: '2016-01-16T14:01:06.612Z'
+datePublished: '2016-01-16T14:01:06.631Z'
 dateModified: '2016-01-16T14:00:47.090Z'
 author: []
 related: []
